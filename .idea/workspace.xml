@@ -10,7 +10,6 @@
       <change afterPath="$PROJECT_DIR$/../EveryoneBattlesDoubt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HelloGoodSuffering" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomoSapien/Earth.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ILovePain" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../KingArmy/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../KingArmy/src/ArchType/King.java" afterDir="false" />
@@ -23,6 +22,11 @@
       <change afterPath="$PROJECT_DIR$/../StockHolmSyndrome/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../StockHolmSyndrome/StockHolmSyndrome.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../forLoops" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prereg-practice/src/practice/loops/LoopsPracrtice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomoSapien/Earth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomoSapien/Earth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomoSapien/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomoSapien/Human.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,26 +37,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HomoSapien/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="480">
+              <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HomoSapien/Earth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="570">
+              <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -67,15 +65,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Earth.java" />
         <option value="$PROJECT_DIR$/src/HomoSapien/SecondEarth.java" />
-        <option value="$PROJECT_DIR$/src/HomoSapien/Earth.java" />
         <option value="$PROJECT_DIR$/src/HomoSapien/Human.java" />
+        <option value="$PROJECT_DIR$/src/HomoSapien/Earth.java" />
       </list>
     </option>
   </component>
@@ -90,8 +88,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,7 +115,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545587414690" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545667553420" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -176,7 +174,7 @@
     <frame x="0" y="23" width="1680" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17887668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18253969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -185,12 +183,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30635837" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30635837" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26473987" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32947975" />
@@ -206,23 +204,17 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Earth.java" />
-    <entry file="file://$PROJECT_DIR$/src/HomoSapien/Earth.java">
+    <entry file="file://$PROJECT_DIR$/src/HomoSapien/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        <state relative-caret-position="480">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HomoSapien/Human.java">
+    <entry file="file://$PROJECT_DIR$/src/HomoSapien/Earth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="570">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
         </state>
       </provider>
     </entry>

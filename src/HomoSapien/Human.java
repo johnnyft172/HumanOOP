@@ -34,7 +34,7 @@ public class Human {
                 "my labor. I am entitled to my hard work so trust the process and  get to work!");
 
 
- /*       age = 5;
+ /*     age = 5;
         eyeColor= "brown";
         heightInInches = 72;
         name = "Tom Striznano";*/

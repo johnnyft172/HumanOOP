@@ -18,7 +18,7 @@ package HomoSapien;
 
 
 /*
-            Human Tom;  //Tom is known as Instance variable cuz it points to actual object also aka Object variable
+            Human Tom;  //Tom is known as Instance variable cuz it points to actual object aka Object variable
             Tom = new Human();   //Here we made object in two lines
 
             Tom.age = 5;
