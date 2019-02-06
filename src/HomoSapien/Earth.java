@@ -18,8 +18,14 @@ package HomoSapien;
 
 
 /*
-            Human Tom;  //Tom is known as Instance variable cuz it points to actual object aka Object variable
-            Tom = new Human();   //Here we made object in two lines
+            Human Tom;    //Tom is known as an Instance variable cuz it points to actual object (instance) aka Object variable.
+
+            Tom = new Human(); Here we made object in two lines  | It's important to keep in mind that this (new human) is a variable and the
+
+            // actual object is created when this statement is executed. The location for where the object is created in memory is basically referenced by the this particular
+               variable (Tom)
+
+
 
             Tom.age = 5;
             Tom.eyeColor= "brown";

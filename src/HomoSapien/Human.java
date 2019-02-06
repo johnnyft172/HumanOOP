@@ -7,8 +7,8 @@ public class Human {
     int heightInInches;
     String eyeColor;
 
-    public Human(String name, int age, int heightInInches, String eyeColor) {
-        this.name = name;    //"This" is a keyword is a variable in Java & it points to current object
+    public Human(String name, int age, int heightInInches, String eyeColor) {   //Special method called constructor that gives birth to the object
+        this.name = name;    //Here "this" is a keyword, it is a variable in Java & it points to current object
         this.age = age;
         this.heightInInches = heightInInches;
         this.eyeColor = eyeColor;
